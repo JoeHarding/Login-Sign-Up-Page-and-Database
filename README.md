@@ -1,2 +1,3 @@
 # Login-Sign-Up-Page-and-Database
-PHP and MYSQLI
+Basic Login and sign up page using PHP and MYSQLI 
+
