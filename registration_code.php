@@ -1,6 +1,3 @@
-<!--
-code for registration.
--->
 <?php
 require_once('connection.php');
 $fname = $lname = $gender = $email = $password = $pwd = '';
