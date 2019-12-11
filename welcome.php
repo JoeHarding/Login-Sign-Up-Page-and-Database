@@ -1,7 +1,3 @@
-<!--
- for welcome page.
--->
-
 <?php
 include_once('link.php');
 include_once('header1.php');
