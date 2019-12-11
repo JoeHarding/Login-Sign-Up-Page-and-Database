@@ -1,6 +1,3 @@
-<!--
-this is header file which is visible in registration and login page.
--->
 <?php
 include_once('link.php');
 
