@@ -1,11 +1,8 @@
-<!--
-layout for login page.
--->
+
 
 <?php
 include_once('header.php');
 include_once('link.php');
-
 ?>
 
 <div id="frmRegistration">
