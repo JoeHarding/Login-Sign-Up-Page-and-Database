@@ -1,7 +1,3 @@
-<!--
-this is second header file which is visible after login.
--->
-
 <?php
 include_once('link.php');
 session_start();
