@@ -1,7 +1,3 @@
-<!--
-Into this file, we write a code for display user information.
--->
-
 <?php
 include_once('link.php');
 include_once('header1.php');
